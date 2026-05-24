@@ -4,6 +4,7 @@ A deep learning–based NLP project that classifies resumes into predefined job 
 The system processes resume PDFs, extracts text, and predicts the most suitable job role with detailed evaluation metrics.
 
 ---
+https://colab.research.google.com/drive/1NAL8IM9YhwZtcqXhu6OIatJhD0aaRedN?usp=sharing
 
 ## 🚀 Project Overview
 
